@@ -5,7 +5,7 @@ This Python-based Currency Converter App provides real-time currency conversion 
 ## Features
 
 - **Live Currency Conversion:** Utilizes an API to fetch up-to-date currency exchange rates for accurate conversions.
-- **User-Friendly Interface:** Simple and intuitive interface for easy conversion of currencies.
+- **User-Friendly Interface:** A user friendly website is being built so that users dont have to interact with what seems to be website from the initial days of the internet!
 - **Flexible Conversion:** Supports a wide range of currencies for conversion.
 
 ## Installation
